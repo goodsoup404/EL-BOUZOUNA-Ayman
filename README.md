@@ -1,4 +1,4 @@
-<h1 align="center">EL BOUZOUNA AYMAN</h1> <p align="center"> <img src="profile.png" width="150" alt="Ayman El Bouzouna"/> </p> <p align="center"><b>Networking & IT Support · CCNA in progress</b></p> <p align="center"> <img src="https://img.shields.io/badge/Open_to-Internship-2ea44f?style=for-the-badge" alt="Open to internship"/> <img src="https://img.shields.io/badge/Cisco-CCNA_2026--2027-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA in progress"/> </p>
+<h1 align="center">EL BOUZOUNA AYMAN</h1> <p align="center"> <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/53541b7c-6dea-402f-b2a9-e4aea462e0ed" /> </p> <p align="center"><b>Networking & IT Support · CCNA in progress</b></p> <p align="center"> <img src="https://img.shields.io/badge/Open_to-Internship-2ea44f?style=for-the-badge" alt="Open to internship"/> <img src="https://img.shields.io/badge/Cisco-CCNA_2026--2027-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA in progress"/> </p>
 👨‍💻 About me
 
 I'm a 2nd-year Digital Infrastructure student (OFPPT, Tétouan) preparing for the Cisco CCNA.
